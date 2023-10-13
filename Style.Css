@@ -1,0 +1,35 @@
+html {
+    height: 50%;
+    width: 50%;
+  }  
+  
+  body {
+    background-color: grey;
+    color: white;
+    font-family: Helvetica;
+    font-size: 40px;
+   position: absolute;
+  }
+  h1{
+    color: white;
+    font-size: 40px;
+    font-style: Helvetica;
+  }
+
+  img {
+    border: 1px solid ;
+    border-radius: 4px;
+    padding: 5px;
+    width: 200px;
+  }
+ 
+  .UFO-IMG img{
+    display:inline-box;
+    margin: 0 auto;
+    padding: 50px ;
+  }
+  
+  
+  #guess-button {
+    color:green;
+  }
